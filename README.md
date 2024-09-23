@@ -1,0 +1,1 @@
+# plugins-fatal-error-notify
